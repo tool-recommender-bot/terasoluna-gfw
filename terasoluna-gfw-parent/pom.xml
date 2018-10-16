@@ -183,6 +183,17 @@
   <dependencyManagement>
     <dependencies>
 
+      <!-- == Begin Spring Framework == -->
+      <!-- == Upgrade Spring Framework  == -->
+      <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-framework-bom</artifactId>
+        <version>5.1.1.RELEASE</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <!-- == End Spring Framework == -->
+
       <!-- == Begin Spring IO Platform == -->
       <dependency>
         <groupId>io.spring.platform</groupId>
