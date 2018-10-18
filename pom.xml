@@ -34,7 +34,7 @@
   </scm>
   <properties>
     <!-- == Maven Plugin Versions == -->
-    <jacoco-maven-plugin.version>0.7.5.201505241946</jacoco-maven-plugin.version>
+    <jacoco-maven-plugin.version>0.8.2</jacoco-maven-plugin.version>
     <formatter-maven-plugin.version>2.0.1</formatter-maven-plugin.version>
     <xml-maven-plugin.version>1.0.1</xml-maven-plugin.version>
     <com.google.code.maven-license-plugin.version>1.4.0</com.google.code.maven-license-plugin.version>
