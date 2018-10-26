@@ -214,8 +214,8 @@
       </dependency>
       <dependency>
         <groupId>com.github.dozermapper</groupId>
-        <artifactId>dozer-spring4</artifactId>
-        <version>6.2.0</version>
+        <artifactId>dozer-spring</artifactId>
+        <version>6.1.0</version>
       </dependency>
       <!-- == End Dozer== -->
 
