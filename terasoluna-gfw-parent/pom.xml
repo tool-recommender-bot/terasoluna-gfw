@@ -183,15 +183,15 @@
   <dependencyManagement>
     <dependencies>
 
-      <!-- == Begin Spring IO Platform == -->
+      <!-- == Begin Spring Boot == -->
       <dependency>
-        <groupId>io.spring.platform</groupId>
-        <artifactId>platform-bom</artifactId>
-        <version>${io.spring.platform.version}</version>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-dependencies</artifactId>
+        <version>${org.springframework.boot.version}</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
-      <!-- == End Spring IO Platform == -->
+      <!-- == End Spring Boot == -->
 
       <!-- == Begin Tomcat == -->
       <dependency>
@@ -444,8 +444,8 @@
     <!-- == Dependency Versions == -->
     <!-- == TERASOLUNA == -->
     <terasoluna.gfw.version>5.5.0-SNAPSHOT</terasoluna.gfw.version>
-    <!-- == Spring IO Platform == -->
-    <io.spring.platform.version>Cairo-SR3</io.spring.platform.version>
+    <!-- == Spring Boot == -->
+    <org.springframework.boot.version>2.1.1.RELEASE</org.springframework.boot.version>
     <!-- == Tomcat == -->
     <tomcat.version>9.0.10</tomcat.version>
     <!-- == MyBatis3 == -->
