@@ -445,7 +445,7 @@
     <!-- == TERASOLUNA == -->
     <terasoluna.gfw.version>5.5.0-SNAPSHOT</terasoluna.gfw.version>
     <!-- == Spring IO Platform == -->
-    <io.spring.platform.version>Cairo-SR3</io.spring.platform.version>
+    <io.spring.platform.version>Cairo-SR6</io.spring.platform.version>
     <!-- == Tomcat == -->
     <tomcat.version>9.0.10</tomcat.version>
     <!-- == MyBatis3 == -->
